@@ -1,2 +1,3 @@
 # Gen AI Labs with local models in LM Studio
-Labs
+Lab1 - Document Summary
+Lab2 - Document QnA
